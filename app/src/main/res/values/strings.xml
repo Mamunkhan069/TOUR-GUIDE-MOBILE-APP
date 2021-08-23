@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Tour_Guide</string>
+    <string name="alerttitle_text">Confirm Exit</string>
+    <string name="message_text">Are you sure???</string>
+    <string name="splash_text">Welcome To Travel World</string>
+    <string name="mainactivityname">All Division And District</string>
+    <string name="childactivityname">All Tourist Place </string>
+    <string-array name="gazipur_district">
+        <item>fgdgdg</item>
+        <item>dfsfsdfs</item>
+
+    </string-array>
+
+    <string-array name="dhaka_district_headertext">
+        <item><u>Lalbag Fort</u>  :</item>
+        <item>Sat Gambij Mosque :</item>
+        <item>Jahangirnagor University :</item>
+    </string-array>
+    <string-array name="dhaka_district_itemtext">
+        <item>Lalbagh Fort is the most popular and renowned fort and a great signature of art
+            by Mughal Empire in Bangladesh. It is also known as Fort Aurangabad.
+            It is located in Lalbagh of old Dhaka, hence named so.
+            It is situated by the bank of the river Buriganga in a rich red soil.\n\n
+            Entry fees of Lalbagh Fort :\n\n
+
+            • Local Tourists: 20 TK\n
+            • SAARC Country Tourists: 100 TK\n
+            • OMer Foreigners: 200 TK\n\n
+
+            Visiting hours of Lalbagh Fort :\n\n
+
+            Summer Season (April - September)\n
+
+            • Friday: 10.00 AM -12.30 PM\n
+            • Saturday: 10.00 - 01.00 PM\n
+            • Sunday:Weekly Holiday\n
+            • Monday. 0230 PM - 06.00 PM\n
+            . weednesDay:01.30 PM - 06.00 PM\n
+
+        </item>
+        <item>The Sat Gambuj Mosque is stands in a romantic setting on a buttressed 15-foot-high bank
+            overlooking an extensive flood plain</item>
+        <item>The university was established in 1970 by the Jahangirnagar Muslim University Ordinance of the
+            government of Pakistan.</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+</resources>

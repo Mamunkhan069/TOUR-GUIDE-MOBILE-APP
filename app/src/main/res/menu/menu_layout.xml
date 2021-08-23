@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Guideid"
+        android:title="Looking for Guide"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/Registerasaguideid"
+        android:title="Register as a guide"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/feedbackid"
+        android:title="feedback"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Signoutid"
+        android:title="Signout"
+        app:showAsAction="never"
+        />
+
+</menu>
